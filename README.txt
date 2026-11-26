@@ -1,0 +1,1 @@
+A collection of network design, configuration, and traffic analysis projects created in Cisco Packet Tracer and Wireshark. Includes practical labs on IP addressing and subnetting, VLAN segmentation, static routing, and DHCP and DNS server setup to demonstrate core networking fundamentals and troubleshooting.
